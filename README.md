@@ -1,6 +1,6 @@
-# About uGim
+# Developer & IT enthusiast
 
-🧠 Casual programming with anything I put my mind to. Ideas and projects come first; tools are selected later!
+🧠 Programming with anything I put my mind to. Ideas and projects come first; tools are selected later!
 
 🎮 Game development/design enthusiast creating immersive experiences.
 
